@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**boussadjra/boussadjra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full stack web developer who loves code and UI design, I like to build something that works and looks fine.
+        When i have some problem I try to follow the best practices and the modern tools to solve it. I consecrate my free time to help people especially on
+        <a
+          href="https://stackoverflow.com/users/8172857/boussadjra-brahim?tab=profile"
+          target="blank"
+          class="b-link"
+        >Stack Overflow</a>, maintain some open source components on
+        <a
+          href="https://github.com/boussadjra"
+          target="blank"
+          class="b-link"
+        >Github</a> or to learn new skills.
+     
+    
+To learn more about me please take a look at my [personal website](https://boussadjra-brahim.netlify.app)
+        
