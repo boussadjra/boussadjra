@@ -6,12 +6,7 @@ I'm a full stack web developer who loves code and UI design, I like to build som
           href="https://stackoverflow.com/users/8172857/boussadjra-brahim?tab=profile"
           target="blank"
           class="b-link"
-        >Stack Overflow</a>, maintain some open source components on
-        <a
-          href="https://github.com/boussadjra"
-          target="blank"
-          class="b-link"
-        >Github</a> or to learn new skills.
+        >Stack Overflow</a>, maintain some open source components on Github or to learn new skills.
      
     
 To learn more about me please take a look at my [personal website](https://boussadjra-brahim.netlify.app)
