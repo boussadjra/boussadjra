@@ -19,3 +19,4 @@ Please don't forget to star ⭐ the repositories below if you find them interest
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye-table&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vue-pro-sidebar&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
