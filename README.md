@@ -13,3 +13,7 @@ To learn more about me please take a look at my [personal website](https://bouss
 
 Please don't forget to star ⭐ the repositories below if you find them interesting)
         
+## Github Stats & Top Langs
+
+![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=vue-dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=vue-dark)](https://github.com/boussadjra/boussadjra)
