@@ -17,3 +17,5 @@ Please don't forget to star ⭐ the repositories below if you find them interest
 
 ![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=shades-of-purple&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye-table&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
