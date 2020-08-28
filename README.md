@@ -15,5 +15,5 @@ Please don't forget to star ⭐ the repositories below if you find them interest
         
 ## Github Stats & Top Langs
 
-![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=vue-dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=vue-dark)](https://github.com/boussadjra/boussadjra)
+![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=shades-of-purple&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
