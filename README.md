@@ -13,8 +13,10 @@ To learn more about me please take a look at my [personal website](https://bouss
 
 Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find them interesting)
   
-  <a href='https://ko-fi.com/B0B62DGG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-  
+
+
+[![buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=boussadjra&button_colour=7040ff&font_colour=fff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/boussadjra)
+
 ## Github Stats & Top Langs
 
 ![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=shades-of-purple&count_private=true)
