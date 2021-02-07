@@ -27,6 +27,3 @@ Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find t
 
   <a href="https://github.com/boussadjra"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
-## StackOverflow :
-
-<a href="https://stackexchange.com/users/11133636"><img src="https://stackexchange.com/users/flair/11133636.png" width="208" height="58" alt="profile for Boussadjra Brahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Boussadjra Brahim on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
