@@ -23,7 +23,7 @@ Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye-table&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vue3-tailwind2&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
 
   <a href="https://github.com/boussadjra"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
