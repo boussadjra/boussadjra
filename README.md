@@ -14,16 +14,5 @@ To learn more about me please take a look at my [personal website](https://bouss
 Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find them interesting)
   
 
-
-[![buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=boussadjra&button_colour=7040ff&font_colour=fff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/boussadjra)
-
-## Github Stats & Top Langs
-
-![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=shades-of-purple&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye-table&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boussadjra&repo=vueye&theme=shades-of-purple)](https://github.com/boussadjra/github-readme-stats)
-
   <a href="https://github.com/boussadjra"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
