@@ -6,9 +6,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/TheBSD/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/issues)
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
-#StandWithPalestine banner and related documents
-
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
 ## About me
 
@@ -21,7 +18,7 @@ I'm a web developer  who loves code and UI design, I like to build something tha
         >Stack Overflow</a>, maintain some open source components on Github or to learn new skills.
      
     
-To learn more about me please take a look at my [personal website](https://boussadjra-brahim.netlify.app)
+To learn more about me please take a look at my [personal website](https://boussadjra-brahim.vercel.app)
 
 Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find them interesting)
   
